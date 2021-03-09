@@ -1,1 +1,3 @@
 Welcome to Git training
+
+read git commands
