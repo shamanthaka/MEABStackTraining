@@ -1,0 +1,14 @@
+#d1{
+border-color: coral;
+border-width: 2px;
+border-style: solid;
+}
+#d2{
+    border-color: darkblue;
+    border-width:10px ;
+    border-style: groove;
+}
+#d3{
+    border:solid crimson 5px;
+
+}
